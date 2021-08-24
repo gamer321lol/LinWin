@@ -1,5 +1,5 @@
 @echo off
-// loading stuff
+: Loading stuff
 set mynonosquare=dont touch my nono sqaure
 cd bin
 title User@linwin-VM
