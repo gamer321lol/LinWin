@@ -12,3 +12,5 @@ This CANNOT run Linux apps. This is a simulator, not emulator. But i do hope to 
 
 # Installation
 Download the repo as ZIP, extract and open CMD, goto the folder you extracted it in and run "load.bat"
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
